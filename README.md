@@ -1,4 +1,4 @@
-Separates your work from your colleagues
+Separates your work from your colleague's
 
 It shows how to branch and delete files. Branching 
 helps secludes your work from the main work and so 
